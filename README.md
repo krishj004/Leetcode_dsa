@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/krishj004/Leetcode_dsa/tree/master/0234-palindrome-linked-list) |
 | [0460-lfu-cache](https://github.com/krishj004/Leetcode_dsa/tree/master/0460-lfu-cache) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/krishj004/Leetcode_dsa/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Design
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/krishj004/Leetcode_dsa/tree/master/0234-palindrome-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/krishj004/Leetcode_dsa/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Array
 |  |
@@ -29,9 +31,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/krishj004/Leetcode_dsa/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/krishj004/Leetcode_dsa/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/krishj004/Leetcode_dsa/tree/master/0503-next-greater-element-ii) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/krishj004/Leetcode_dsa/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
