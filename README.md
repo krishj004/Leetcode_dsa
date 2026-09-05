@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/krishj004/Leetcode_dsa/tree/master/0169-majority-element) |
 | [0460-lfu-cache](https://github.com/krishj004/Leetcode_dsa/tree/master/0460-lfu-cache) |
 ## Linked List
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/krishj004/Leetcode_dsa/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/krishj004/Leetcode_dsa/tree/master/0200-number-of-islands) |
 | [0503-next-greater-element-ii](https://github.com/krishj004/Leetcode_dsa/tree/master/0503-next-greater-element-ii) |
 ## Stack
@@ -58,4 +60,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/krishj004/Leetcode_dsa/tree/master/0200-number-of-islands) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/krishj004/Leetcode_dsa/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/krishj004/Leetcode_dsa/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/krishj004/Leetcode_dsa/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/krishj004/Leetcode_dsa/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
