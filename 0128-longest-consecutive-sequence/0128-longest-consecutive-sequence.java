@@ -7,17 +7,17 @@ class Solution {
     for(int i=0;i<nums.length;i++){
         st.add(nums[i]);
     }    
-    int x=0;
     for(int it:st){
         if(!st.contains(it-1)){
             cnt=1;
-           x=it;
-        }
+           int x=it;
+        
         while(st.contains(x+1)){
             cnt++;
             x++;
         }
         longest=Math.max(longest,cnt);
+        }
     }
     return longest;
     }
