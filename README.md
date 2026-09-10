@@ -27,12 +27,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/krishj004/Leetcode_dsa/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/krishj004/Leetcode_dsa/tree/master/0031-next-permutation) |
 | [0234-palindrome-linked-list](https://github.com/krishj004/Leetcode_dsa/tree/master/0234-palindrome-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/krishj004/Leetcode_dsa/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/krishj004/Leetcode_dsa/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/krishj004/Leetcode_dsa/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/krishj004/Leetcode_dsa/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/krishj004/Leetcode_dsa/tree/master/0053-maximum-subarray) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/krishj004/Leetcode_dsa/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/krishj004/Leetcode_dsa/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/krishj004/Leetcode_dsa/tree/master/0229-majority-element-ii) |
 ## Counting
