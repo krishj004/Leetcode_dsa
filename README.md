@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/krishj004/Leetcode_dsa/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/krishj004/Leetcode_dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/krishj004/Leetcode_dsa/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/krishj004/Leetcode_dsa/tree/master/0229-majority-element-ii) |
 | [0460-lfu-cache](https://github.com/krishj004/Leetcode_dsa/tree/master/0460-lfu-cache) |
 | [0560-subarray-sum-equals-k](https://github.com/krishj004/Leetcode_dsa/tree/master/0560-subarray-sum-equals-k) |
 ## Linked List
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/krishj004/Leetcode_dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/krishj004/Leetcode_dsa/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/krishj004/Leetcode_dsa/tree/master/0200-number-of-islands) |
+| [0229-majority-element-ii](https://github.com/krishj004/Leetcode_dsa/tree/master/0229-majority-element-ii) |
 | [0503-next-greater-element-ii](https://github.com/krishj004/Leetcode_dsa/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/krishj004/Leetcode_dsa/tree/master/0560-subarray-sum-equals-k) |
 ## Stack
@@ -85,14 +87,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/krishj004/Leetcode_dsa/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/krishj004/Leetcode_dsa/tree/master/0229-majority-element-ii) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/krishj004/Leetcode_dsa/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/krishj004/Leetcode_dsa/tree/master/0229-majority-element-ii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/krishj004/Leetcode_dsa/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/krishj004/Leetcode_dsa/tree/master/0229-majority-element-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
