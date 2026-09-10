@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/krishj004/Leetcode_dsa/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/krishj004/Leetcode_dsa/tree/master/0229-majority-element-ii) |
 | [0503-next-greater-element-ii](https://github.com/krishj004/Leetcode_dsa/tree/master/0503-next-greater-element-ii) |
+| [0518-coin-change-ii](https://github.com/krishj004/Leetcode_dsa/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/krishj004/Leetcode_dsa/tree/master/0560-subarray-sum-equals-k) |
 ## Stack
 |  |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/krishj004/Leetcode_dsa/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/krishj004/Leetcode_dsa/tree/master/0118-pascals-triangle) |
+| [0518-coin-change-ii](https://github.com/krishj004/Leetcode_dsa/tree/master/0518-coin-change-ii) |
 ## Math
 |  |
 | ------- |
@@ -118,4 +120,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/krishj004/Leetcode_dsa/tree/master/0560-subarray-sum-equals-k) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/krishj004/Leetcode_dsa/tree/master/0518-coin-change-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/krishj004/Leetcode_dsa/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
