@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/krishj004/Leetcode_dsa/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/krishj004/Leetcode_dsa/tree/master/0048-rotate-image) |
 | [0231-power-of-two](https://github.com/krishj004/Leetcode_dsa/tree/master/0231-power-of-two) |
 ## Simulation
@@ -164,5 +165,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/krishj004/Leetcode_dsa/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/krishj004/Leetcode_dsa/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
