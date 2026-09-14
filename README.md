@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/krishj004/Leetcode_dsa/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/krishj004/Leetcode_dsa/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/krishj004/Leetcode_dsa/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/krishj004/Leetcode_dsa/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/krishj004/Leetcode_dsa/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/krishj004/Leetcode_dsa/tree/master/0260-single-number-iii) |
 | [0493-reverse-pairs](https://github.com/krishj004/Leetcode_dsa/tree/master/0493-reverse-pairs) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/krishj004/Leetcode_dsa/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/krishj004/Leetcode_dsa/tree/master/0048-rotate-image) |
+| [0204-count-primes](https://github.com/krishj004/Leetcode_dsa/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/krishj004/Leetcode_dsa/tree/master/0231-power-of-two) |
 ## Simulation
 |  |
@@ -178,4 +180,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/krishj004/Leetcode_dsa/tree/master/0078-subsets) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/krishj004/Leetcode_dsa/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/krishj004/Leetcode_dsa/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/krishj004/Leetcode_dsa/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/krishj004/Leetcode_dsa/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/krishj004/Leetcode_dsa/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
