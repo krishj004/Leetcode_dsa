@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/krishj004/Leetcode_dsa/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/krishj004/Leetcode_dsa/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/krishj004/Leetcode_dsa/tree/master/0229-majority-element-ii) |
+| [0260-single-number-iii](https://github.com/krishj004/Leetcode_dsa/tree/master/0260-single-number-iii) |
 | [0493-reverse-pairs](https://github.com/krishj004/Leetcode_dsa/tree/master/0493-reverse-pairs) |
 | [0503-next-greater-element-ii](https://github.com/krishj004/Leetcode_dsa/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/krishj004/Leetcode_dsa/tree/master/0518-coin-change-ii) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/krishj004/Leetcode_dsa/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/krishj004/Leetcode_dsa/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/krishj004/Leetcode_dsa/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/krishj004/Leetcode_dsa/tree/master/0260-single-number-iii) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/krishj004/Leetcode_dsa/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Backtracking
 |  |
