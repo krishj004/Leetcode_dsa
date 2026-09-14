@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/krishj004/Leetcode_dsa/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/krishj004/Leetcode_dsa/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/krishj004/Leetcode_dsa/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/krishj004/Leetcode_dsa/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/krishj004/Leetcode_dsa/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/krishj004/Leetcode_dsa/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/krishj004/Leetcode_dsa/tree/master/0128-longest-consecutive-sequence) |
@@ -167,7 +168,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/krishj004/Leetcode_dsa/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/krishj004/Leetcode_dsa/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/krishj004/Leetcode_dsa/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/krishj004/Leetcode_dsa/tree/master/0231-power-of-two) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/krishj004/Leetcode_dsa/tree/master/2220-minimum-bit-flips-to-convert-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/krishj004/Leetcode_dsa/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
