@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/krishj004/Leetcode_dsa/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/krishj004/Leetcode_dsa/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/krishj004/Leetcode_dsa/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/krishj004/Leetcode_dsa/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/krishj004/Leetcode_dsa/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/krishj004/Leetcode_dsa/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/krishj004/Leetcode_dsa/tree/master/0200-number-of-islands) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/krishj004/Leetcode_dsa/tree/master/0029-divide-two-integers) |
+| [0136-single-number](https://github.com/krishj004/Leetcode_dsa/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/krishj004/Leetcode_dsa/tree/master/0231-power-of-two) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/krishj004/Leetcode_dsa/tree/master/2220-minimum-bit-flips-to-convert-number) |
 <!---LeetCode Topics End-->
