@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/krishj004/Leetcode_dsa/tree/master/0053-maximum-subarray) |
+| [0072-edit-distance](https://github.com/krishj004/Leetcode_dsa/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/krishj004/Leetcode_dsa/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/krishj004/Leetcode_dsa/tree/master/0152-maximum-product-subarray) |
 | [0518-coin-change-ii](https://github.com/krishj004/Leetcode_dsa/tree/master/0518-coin-change-ii) |
@@ -210,4 +211,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/krishj004/Leetcode_dsa/tree/master/0204-count-primes) |
+## String
+|  |
+| ------- |
+| [0072-edit-distance](https://github.com/krishj004/Leetcode_dsa/tree/master/0072-edit-distance) |
 <!---LeetCode Topics End-->
