@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/krishj004/Leetcode_dsa/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/krishj004/Leetcode_dsa/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/krishj004/Leetcode_dsa/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/krishj004/Leetcode_dsa/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/krishj004/Leetcode_dsa/tree/master/0152-maximum-product-subarray) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/krishj004/Leetcode_dsa/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/krishj004/Leetcode_dsa/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/krishj004/Leetcode_dsa/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/krishj004/Leetcode_dsa/tree/master/0062-unique-paths) |
 | [0204-count-primes](https://github.com/krishj004/Leetcode_dsa/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/krishj004/Leetcode_dsa/tree/master/0231-power-of-two) |
 ## Simulation
@@ -215,4 +217,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/krishj004/Leetcode_dsa/tree/master/0072-edit-distance) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/krishj004/Leetcode_dsa/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
